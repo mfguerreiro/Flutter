@@ -1,0 +1,12 @@
+4883b58c
+
+https://api.hgbrasil.com/finance/taxes?format=json&key=4883b58c
+
+Preço de ações:
+https://api.hgbrasil.com/finance/stock_price?key=4883b58c&symbol=bidi4,petr4,qual3,ciel3
+
+Maiores altas:
+https://api.hgbrasil.com/finance/stock_price?key=4883b58c&symbol=get-high
+
+Mariores baixas:
+https://api.hgbrasil.com/finance/stock_price?key=4883b58c&symbol=get-low

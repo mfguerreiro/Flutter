@@ -1,0 +1,8 @@
+trending:
+https://api.giphy.com/v1/gifs/trending?api_key=tzdAzAMjl4uhG4rgrCmvDSLCzM6p4OqT&limit=20&rating=g
+
+search dogs:
+https://api.giphy.com/v1/gifs/search?api_key=tzdAzAMjl4uhG4rgrCmvDSLCzM6p4OqT&q=dogs&limit=25&offset=75&rating=g&lang=en
+
+search cute:
+https://api.giphy.com/v1/gifs/search?api_key=tzdAzAMjl4uhG4rgrCmvDSLCzM6p4OqT&q=dogs&limit=25&offset=75&rating=g&lang=en
